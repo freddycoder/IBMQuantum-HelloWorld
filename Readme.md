@@ -8,10 +8,10 @@
 
 - https://docs.quantum.ibm.com/guides/setup-channel#set-up-to-use-ibm-quantum-platform
 
-### Hellow world
+### Hello world
 
 https://docs.quantum.ibm.com/guides/hello-world
 
-### grover-algprothm
+### grover-algporithm
 
 https://learning.quantum.ibm.com/tutorial/grovers-algorithm
