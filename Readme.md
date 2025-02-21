@@ -1,4 +1,4 @@
-# IBBQuantum - Hello World!
+# IBMQuantum - Hello World!
 
 ## Documentation
 
