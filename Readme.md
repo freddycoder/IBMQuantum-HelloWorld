@@ -12,6 +12,6 @@
 
 https://docs.quantum.ibm.com/guides/hello-world
 
-### grover-algporithm
+### grover-algorithm
 
 https://learning.quantum.ibm.com/tutorial/grovers-algorithm
