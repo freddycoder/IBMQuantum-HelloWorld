@@ -6,6 +6,9 @@ python -m venv .venv
 pip install qiskit
 pip install qiskit-ibm-runtime
 
+# If you want to use the Qiskit Aer simulator, you can install it with the following command:
+pip install qiskit-aer
+
 # If you intend to use visualization functionality or Jupyter notebooks, it is recommended to install Qiskit with the extra visualization support ('qiskit[visualization]').
 pip install qiskit[visualization]
 
